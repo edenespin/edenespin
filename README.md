@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @edenespin
 - 👀 I’m interested in Backend development.
 - 🌱 I’m currently learning Computer Science at The College of New Jersey.
-- 💞️ I’m looking to collaborate on a simple chatbot program for the FemmeHacks 2022 Hackathon.
 - 📫 How to reach me: my Discord!
 
 <!---

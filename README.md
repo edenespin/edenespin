@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edenespin
-- 👀 I’m interested in Backend development.
+- 👀 I’m interested in robotics.
 - 🌱 I’m currently learning Computer Science at The College of New Jersey.
 - 📫 How to reach me: my Discord!
 
